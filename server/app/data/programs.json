@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking Bad",
+    "category": "Drame",
+    "year": 2008
+  },
+  {
+    "id": 2,
+    "title": "Friends",
+    "category": "Comédie",
+    "year": 1994
+  },
+  {
+    "id": 3,
+    "title": "The Crown",
+    "category": "Drame historique",
+    "year": 2016
+  },
+  {
+    "id": 4,
+    "title": "Stranger Things",
+    "category": "Science-fiction",
+    "year": 2016
+  },
+  {
+    "id": 5,
+    "title": "The Mandalorian",
+    "category": "Aventure",
+    "year": 2019
+  },
+  {
+    "id": 6,
+    "title": "Brooklyn Nine-Nine",
+    "category": "Comédie",
+    "year": 2013
+  },
+  {
+    "id": 7,
+    "title": "The Good Place",
+    "category": "Comédie",
+    "year": 2016
+  }
+]

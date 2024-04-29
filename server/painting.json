@@ -1,0 +1,266 @@
+[
+  {
+    "objectID": 15000,
+    "isHighlight": false,
+    "accessionNumber": "2006.235.8",
+    "accessionYear": "2006",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6861.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/APS6861.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3403,
+        "role": "Artist",
+        "name": "Thomas E. Barratt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332636",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21647741",
+        "gender": ""
+      }
+    ],
+    "department": "The American Wing",
+    "objectName": "Painting, miniature",
+    "title": "Portrait of a Gentleman",
+    "culture": "British",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Thomas E. Barratt",
+    "artistDisplayBio": "born ca. 1814",
+    "artistSuffix": "",
+    "artistAlphaSort": "Barratt, Thomas E.",
+    "artistNationality": "British",
+    "artistBeginDate": "1814",
+    "artistEndDate": "1914",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21647741",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500332636",
+    "objectDate": "ca. 1840",
+    "objectBeginDate": 1835,
+    "objectEndDate": 1845,
+    "medium": "Watercolor on ivory",
+    "dimensions": "2 1/8 x 1 3/4 in (5.4 x 4.4 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.4,
+          "Width": 4.4
+        }
+      }
+    ],
+    "creditLine": "Gift of Gloria Manney, 2006",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2022-05-13T05:09:10.17Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/15000",
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19924506",
+    "isTimelineWork": false,
+    "GalleryNumber": ""
+  },
+  {
+    "objectID": 15000,
+    "isHighlight": false,
+    "accessionNumber": "2006.235.8",
+    "accessionYear": "2006",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6861.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/APS6861.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3403,
+        "role": "Artist",
+        "name": "Thomas E. Barratt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332636",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21647741",
+        "gender": ""
+      }
+    ],
+    "department": "The American Wing",
+    "objectName": "Painting, miniature",
+    "title": "Portrait of a Gentleman",
+    "culture": "British",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Thomas E. Barratt",
+    "artistDisplayBio": "born ca. 1814",
+    "artistSuffix": "",
+    "artistAlphaSort": "Barratt, Thomas E.",
+    "artistNationality": "British",
+    "artistBeginDate": "1814",
+    "artistEndDate": "1914",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21647741",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500332636",
+    "objectDate": "ca. 1840",
+    "objectBeginDate": 1835,
+    "objectEndDate": 1845,
+    "medium": "Watercolor on ivory",
+    "dimensions": "2 1/8 x 1 3/4 in (5.4 x 4.4 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.4,
+          "Width": 4.4
+        }
+      }
+    ],
+    "creditLine": "Gift of Gloria Manney, 2006",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2022-05-13T05:09:10.17Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/15000",
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19924506",
+    "isTimelineWork": false,
+    "GalleryNumber": ""
+  },
+  {
+    "objectID": 15000,
+    "isHighlight": false,
+    "accessionNumber": "2006.235.8",
+    "accessionYear": "2006",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6861.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/APS6861.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3403,
+        "role": "Artist",
+        "name": "Thomas E. Barratt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332636",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21647741",
+        "gender": ""
+      }
+    ],
+    "department": "The American Wing",
+    "objectName": "Painting, miniature",
+    "title": "Portrait of a Gentleman",
+    "culture": "British",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Thomas E. Barratt",
+    "artistDisplayBio": "born ca. 1814",
+    "artistSuffix": "",
+    "artistAlphaSort": "Barratt, Thomas E.",
+    "artistNationality": "British",
+    "artistBeginDate": "1814",
+    "artistEndDate": "1914",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21647741",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500332636",
+    "objectDate": "ca. 1840",
+    "objectBeginDate": 1835,
+    "objectEndDate": 1845,
+    "medium": "Watercolor on ivory",
+    "dimensions": "2 1/8 x 1 3/4 in (5.4 x 4.4 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.4,
+          "Width": 4.4
+        }
+      }
+    ],
+    "creditLine": "Gift of Gloria Manney, 2006",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2022-05-13T05:09:10.17Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/15000",
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19924506",
+    "isTimelineWork": false,
+    "GalleryNumber": ""
+  }
+]
